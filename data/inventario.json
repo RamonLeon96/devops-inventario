@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "hostname": "R1-Piura",
+        "ip": "192.168.10.1",
+        "tipo": "Router",
+        "estado": "Activo"
+    },
+    {
+        "id": 2,
+        "hostname": "SW1-Piura",
+        "ip": "192.168.10.10",
+        "tipo": "Switch",
+        "estado": "Activo"
+    },
+    {
+        "id": 3,
+        "hostname": "AP1-Piura",
+        "ip": "192.168.10.20",
+        "tipo": "Access Point",
+        "estado": "Mantenimiento"
+    }
+]

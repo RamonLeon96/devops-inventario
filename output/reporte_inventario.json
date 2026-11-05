@@ -1,0 +1,18 @@
+{
+    "proyecto": "Automatización de inventario de dispositivos de red",
+    "fuentes": {
+        "json": 3,
+        "csv": 3,
+        "yaml": 3
+    },
+    "analisis": {
+        "total_dispositivos": 3,
+        "dispositivos_activos": 2,
+        "dispositivos_mantenimiento": 1
+    },
+    "rest_api_https": {
+        "conexion": "exitosa",
+        "codigo_http": 200,
+        "registros_recibidos": 100
+    }
+}

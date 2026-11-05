@@ -1,0 +1,4 @@
+id,hostname,ip,tipo,estado
+1,R1-Piura,192.168.10.1,Router,Activo
+2,SW1-Piura,192.168.10.10,Switch,Activo
+3,AP1-Piura,192.168.10.20,Access Point,Mantenimiento
